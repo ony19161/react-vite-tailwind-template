@@ -1,0 +1,21 @@
+
+.buttonStyle:hover{
+    background-color: #0a29f5;
+}
+
+.dark-hover {
+    --tw-text-opacity: 1;
+    color: rgb(55 65 81 / var(--tw-text-opacity));
+    --tw-bg-opacity: 1;
+    background-color: rgb(4 16 97 / var(--tw-bg-opacity));
+}
+
+.bg-primary-41697 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(4 16 97 / var(--tw-bg-opacity));
+}
+
+.text-primary-white {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+}

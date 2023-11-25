@@ -1,0 +1,35 @@
+.header{
+    background-color: #008B8B;
+    box-shadow: 0 4px 9px -4px #B2BEB5;
+}
+
+.companyLogo{
+    width: 180px;
+    display: block;
+    fill: currentcolor;
+}
+
+.navtitle{
+    color: white;
+}
+
+.navbarButtons{
+ color: white;
+ margin-right: 40px;
+}
+
+#dropdownMenuIconButton{
+    background-color: #008B8B;
+}
+
+#dropdownDots{
+background-color: #fff;
+}
+
+.dropdown:focus-within .dropdown-menu {
+    opacity:1;
+    transform: translate(0) scale(1);
+    visibility: visible;
+  }
+
+

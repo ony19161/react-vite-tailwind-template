@@ -1,0 +1,11 @@
+.loader-container  {
+    position: relative;
+    height: 50vh;
+}
+.loader-text {
+    position: absolute;
+    left: 47%;
+    top: 37%;
+    font-weight: 300;
+    font-size: 1.4em;
+}
